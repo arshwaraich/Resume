@@ -7,7 +7,7 @@
 
 ---
 ## Education
-**Honours Bachelor of Technology (BSD) in Software Development**
+**Honours Bachelor of Technology (BSD) in Software Development**  
 Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 ---
@@ -61,12 +61,13 @@ _React Native, AWS Amplify, Figma, Git/Github_
 
 - A Cross platform (iOS/Android) application for managing a user's health data.
 
-**VPS Management**
+**[VPS Management](https://console.arshwaraich.com)**
 
 _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 
-- Set up a VPS for hosting personal projects (Personal drive, [web based SSH console](https://console.arshwaraich.com) etc.).
-Other Projects
+- Set up a VPS for hosting personal projects (Personal drive, [web based SSH console](https://console.arshwaraich.com) etc.).  
+  
+**[Other Projects](https://github.com/arshwaraich)**
 
 ---
 ## Awards
