@@ -65,7 +65,7 @@ _React Native, AWS Amplify, Figma, Git/Github_
 
 _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 
-- Set up a VPS for hosting personal projects (Personal drive, [web based SSH console](https://console.arshwaraich.com) etc.).  
+- Set up a VPS for hosting personal projects ([Personal drive](https://github.com/arshwaraich/Drive), [web based SSH console](https://console.arshwaraich.com) etc.).  
   
 **[Other Projects](https://github.com/arshwaraich)**
 
@@ -84,7 +84,7 @@ Seneca Applied Research | _April 2020_
 
 ---
 ## Hard Copy
-- [PDF]()
-- [Markdown]()
-- [Latex]()
+- [PDF](https://github.com/arshwaraich/Resume/blob/master/resume.pdf)
+- [Markdown](https://github.com/arshwaraich/Resume/blob/master/README.md)
+- [Latex](https://github.com/arshwaraich/Resume/blob/master/LaTeX)
 - [Repo](https://github.com/arshwaraich/Resume/)

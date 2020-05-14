@@ -1,0 +1,107 @@
+%% start of file 'template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[letterpaper]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\usepackage{textcomp}
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+    % Profile
+\name{Arshdeep Singh}{}
+\address{Toronto, ON}
+\phone[mobile]{(647) 293-8485}
+\email{arshwaraich12@gmail.com}
+\homepage{arshwaraich.com}
+    \begin{document}
+\makecvtitle
+    
+
+\section{Education}
+\cventry
+{Jan 2018 | Aug 2021}
+{Honours Bachelor of Technology (BSD) in Software Development}
+{Seneca College}
+{GPA: 4.0}
+{\textit{Toronto, ON}}
+{}
+\section{Work Experience}
+\cventry
+{Aug 2019 -- Present}
+{Software Developer}
+{Nexus Health Inc.}
+{Toronto, ON}
+{}
+{\begin{itemize}%
+	\item Created first market ready minimum viable product, leading a team of three.
+	\item Used react native and AWS to create a full stack system on track to be patented.
+	\item Conducted product requirements and tech stack research, delivering ahead of schedule.
+	\end{itemize}}
+\cventry
+{Aug 2019 -- Jan 2020}
+{Junior Software Developer}
+{Mixto Card Conceptions Inc.}
+{Mississauga, ON}
+{}
+{\begin{itemize}%
+	\item Developed an Angular app facilitating a multi role, highly customizable insurance portal.
+	\item Consulted for NoSQL architecture based on industry standard design patterns.
+	\end{itemize}}
+\cventry
+{Mar 2019 -- Jul 2019}
+{Research Assistant}
+{Seneca College}
+{Toronto, ON}
+{}
+{\begin{itemize}%
+	\item Conducted data and process analytics research for Ample Organics.
+	\item Visited on-site facilities to create process flows for new and anticipated use cases.
+	\end{itemize}}
+\section{Skills}
+\cvitem{Languages}{HTML/CSS, C/C++, JavaScript/TypeScript, Java, Python, PL/SQL, Bash}
+\cvitem{Frameworks}{Android, Angular, ReactJS, React Native, NodeJS, Nginx, ExpressJS, Agile}
+\cvitem{Databases}{MongoDB, DynamoDB, SQLite, PostgreSQL, SQL Server, MySQL}
+\cvitem{Other}{Git, Github CI/CD, RESTful APIs, Linux, Object Oriented Programming, AWS}
+\section{Projects (Open source only)}
+\cventry
+{}
+{Capstone Project}
+{}
+{\textit{Angular, NodeJS, MongoDB, Git/Github}}
+{}
+{A Customer and Order management system for a green cleaning and stitching business\\https://capstone.arshwaraich.com}
+\vspace{1mm}
+\cventry
+{}
+{VPS Management}
+{}
+{\textit{Ubuntu 16.04, Let\textquotesingle{}s Encrypt, Nginx, NodeJS}}
+{}
+{Set up a VPS for hosting personal projects (Personal drive, web based SSH console etc.)\\https://arshwaraich.com, https://console.arshwaraich.com}
+\vspace{1mm}
+\section{Awards}
+\cventry
+{}
+{President\textquotesingle{}s Honour List}
+{}
+{\textit{Fall 2018, Summer 2019, Fall 2019, Winter 2019}}
+{}
+{The President\textquotesingle{}s Honour List recognizes consistently outstanding achievement by students\\Seneca College}
+\vspace{1mm}
+\ 
+\end{document}
