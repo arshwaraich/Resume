@@ -5,10 +5,12 @@
 - Experience with business principles and management
 - Excellent communication, interpersonal and teamwork skills
 
+---
 ## Education
 **Honours Bachelor of Technology (BSD) in Software Development**
 Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
+---
 ## Work Experience
 **Software Developer (Aug 2019 - Present)**
 
@@ -34,6 +36,7 @@ _Seneca College_, Toronto, ON
 - Conducted data and process analytics research for Ample Organics.
 - Visited on-site facilities to create process flows for new and anticipated use cases.
 
+---
 ## Skills
 
 Skill ||
@@ -43,6 +46,7 @@ Frameworks | Android, Angular, ReactJS, React Native, NodeJS, Nginx, ExpressJS, 
 Databases | MongoDB, DynamoDB, SQLite, PostgreSQL, SQL Server, MySQL
 Other | Git, Github CI/CD, RESTful APIs/AJAX/JSON, Linux, Object Oriented Programming, Gang Of Five design patterns, Amazon AWS
 
+---
 ## Software Projects
 
 **[Capstone Project](https://capstone.arshwaraich.com)**
@@ -64,6 +68,7 @@ _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 - Set up a VPS for hosting personal projects (Personal drive, [web based SSH console](https://console.arshwaraich.com) etc.).
 Other Projects
 
+---
 ## Awards
 
 **President's Honour List**
@@ -76,6 +81,7 @@ Seneca Applied Research | _April 2020_
 
 - In recognition of contributions of faculty, students and others to innovative research and entrepreneurial activities at Seneca presented at the Annual Applied Research, Innovation & Entrepreneurship Showcase.
 
+---
 ## Hard Copy
 - [PDF]()
 - [Markdown]()
