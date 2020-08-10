@@ -1,6 +1,6 @@
 ## Profile Summary
 #### Career Goal: Software Developer
-- Third year Software development degree student with extensive knowledge of Software development and engineering.
+- Fourth year Software development degree student with extensive knowledge of Software development and engineering.
 - Background in Full stack system development and deployment.
 - Experience with business principles and management
 - Excellent communication, interpersonal and teamwork skills
@@ -12,13 +12,22 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 ---
 ## Work Experience
+**Software Developer Co-Op (May 2020 - Aug 2020)**
+
+_Portable Intelligence Inc._, Markham, ON
+
+- Created a UDP protocol based POC of an integration layer to Artemis, a computer vision system. Successfully demonstrating it’s value resulted in a whole new business avenue and revenue stream for the company.
+- Automated software updates, allowing clients to update our software without on-site visits from our employees, saving hundreds of man hours.
+- Operated in Agile for timely product releases using Azure, Windows Server 2012 and IIS.
+
 **Software Developer (Aug 2019 - Present)**
 
 _Nexus Health_, Toronto, ON
 
+- Implemented a computer vision system to automatically pull medication information from prescription bottles, reducing data entry times by 95%.
+- Automated CI/CD pipelines for all platforms, reducing QA work by 50% on each build. (React Web App, React Native iOS, React Native Android and AWS serverless dotnet)
 - Created first market ready minimum viable product, leading a team of three.
-- Developed and deployed a full stack system on track to be patented.
-- Conducted product research for requirements and technology stack, delivering ahead of schedule.
+- Used react native and AWS to create a full stack system on track to be patented.
 
 **Junior Software Developer (Aug 2019 - Jan 2020)**
 
@@ -41,10 +50,10 @@ _Seneca College_, Toronto, ON
 
 Skill ||
 ---|---
-Programming Languages | HTML/CSS, C/C++, JavaScript/TypeScript, Java, Python, PL/SQL, Bash
-Frameworks | Android, Angular, ReactJS, React Native, NodeJS, Nginx, ExpressJS, Agile
-Databases | MongoDB, DynamoDB, SQLite, PostgreSQL, SQL Server, MySQL
-Other | Git, Github CI/CD, RESTful APIs/AJAX/JSON, Linux, Object Oriented Programming, Gang Of Five design patterns, Amazon AWS
+Programming Languages | C/C++, C#, Java, Python, JavaScript/TypeScript, HTML/CSS
+Frameworks | Android (Java), Angular (TypeScript), .NET (Core and Standard), OpenCV, ReactJS, React Native, NodeJS, Nginx
+Databases | MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server
+Other | Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, Github CI/CD, AWS Serverless
 
 ---
 ## Software Projects
