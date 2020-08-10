@@ -16,7 +16,7 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 _Portable Intelligence Inc._, Markham, ON
 
-- Created a UDP protocol based POC of an integration layer to Artemis, a computer vision system. Successfully demonstrating it’s value resulted in a whole new business avenue and revenue stream for the company.
+- Created a UDP protocol based POC of an integration layer to Artemis, a computer vision system. Successfully demonstrating it's value resulted in a whole new business avenue and revenue stream for the company.
 - Automated software updates, allowing clients to update our software without on-site visits from our employees, saving hundreds of man hours.
 - Operated in Agile for timely product releases using Azure, Windows Server 2012 and IIS.
 
