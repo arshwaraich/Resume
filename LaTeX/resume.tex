@@ -1,28 +1,13 @@
-%% start of file 'template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
+\documentclass[letterpaper]{moderncv}
 
-
-\documentclass[letterpaper]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 \usepackage{textcomp}
-% moderncv themes
-\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
-%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
-% character encoding
-\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\moderncvstyle{classic}
+\moderncvcolor{black}
 
-% adjust the page margins
-\usepackage[scale=0.75]{geometry}
-%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
-    % Profile
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.80]{geometry}
+
 \name{Arshdeep Singh}{}
 \address{Toronto, ON}
 \phone[mobile]{(647) 293-8485}
@@ -42,15 +27,27 @@
 {}
 \section{Work Experience}
 \cventry
+{May 2020 -- Aug 2020}
+{Software Developer Co-Op}
+{Portable Intelligence Inc.}
+{Markham, ON}
+{}
+{\begin{itemize}%
+	\item Created a UDP protocol based POC of an integration layer to Artemis, a computer vision system. Successfully demonstrating it's value resulted in a whole new business avenue and revenue stream for the company.
+	\item Automated software updates, allowing clients to update our software without on-site visits from our employees, saving hundreds of man hours.
+	\item Operated in Agile for timely product releases using Azure, Windows Server 2012 and IIS.
+	\end{itemize}}
+\cventry
 {Aug 2019 -- Present}
 {Software Developer}
 {Nexus Health Inc.}
 {Toronto, ON}
 {}
 {\begin{itemize}%
+    \item Implemented a computer vision system to automatically pull medication information from prescription bottles, reducing data entry times by 95\%.
+    \item Automated CI/CD pipelines for all platforms, reducing QA work by 50\% on each build. (React Web App, React Native iOS, React Native Android and AWS serverless dotnet)
 	\item Created first market ready minimum viable product, leading a team of three.
 	\item Used react native and AWS to create a full stack system on track to be patented.
-	\item Conducted product requirements and tech stack research, delivering ahead of schedule.
 	\end{itemize}}
 \cventry
 {Aug 2019 -- Jan 2020}
@@ -73,11 +70,11 @@
 	\item Visited on-site facilities to create process flows for new and anticipated use cases.
 	\end{itemize}}
 \section{Skills}
-\cvitem{Languages}{HTML/CSS, C/C++, JavaScript/TypeScript, Java, Python, PL/SQL, Bash}
-\cvitem{Frameworks}{Android, Angular, ReactJS, React Native, NodeJS, Nginx, ExpressJS, Agile}
-\cvitem{Databases}{MongoDB, DynamoDB, SQLite, PostgreSQL, SQL Server, MySQL}
-\cvitem{Other}{Git, Github CI/CD, RESTful APIs, Linux, Object Oriented Programming, AWS}
-\section{Projects (Open source only)}
+\cvitem{Languages}{C/C++, C\#, Java, Python, JavaScript/TypeScript, HTML/CSS}
+\cvitem{Frameworks}{Android (Java), Angular (TypeScript), .NET (Core and Standard), OpenCV, ReactJS, React Native, NodeJS, Nginx}
+\cvitem{Databases}{MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server}
+\cvitem{Other}{Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, Github CI/CD, AWS Serverless}
+\section{Projects}
 \cventry
 {}
 {Capstone Project}
@@ -88,11 +85,11 @@
 \vspace{1mm}
 \cventry
 {}
-{VPS Management}
+{NexHUB}
 {}
-{\textit{Ubuntu 16.04, Let\textquotesingle{}s Encrypt, Nginx, NodeJS}}
+{\textit{React Native, AWS Amplify, Figma, Git/Github}}
 {}
-{Set up a VPS for hosting personal projects (Personal drive, web based SSH console etc.)\\https://arshwaraich.com, https://console.arshwaraich.com}
+{A Cross platform (iOS/Android) application for managing a user\textquotesingle{}s health data.\\https://nexid.nexushealth.ca}
 \vspace{1mm}
 \section{Awards}
 \cventry
@@ -102,6 +99,14 @@
 {\textit{Fall 2018, Summer 2019, Fall 2019, Winter 2019}}
 {}
 {The President\textquotesingle{}s Honour List recognizes consistently outstanding achievement by students\\Seneca College}
+\vspace{1mm}
+\cventry
+{}
+{Certificate of Recognition}
+{}
+{\textit{April 2020}}
+{}
+{In recognition of contributions of faculty, students and others to innovative research and entrepreneurial activities at Seneca presented at the Annual Applied Research, Innovation \& Entrepreneurship Showcase.\\Seneca Applied Research}
 \vspace{1mm}
 \ 
 \end{document}
