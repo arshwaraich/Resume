@@ -12,6 +12,15 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 ---
 ## Work Experience
+**Software Developer Co-Op (Jan 2021 - Apr 2021)**
+
+_Royal Bank of Canada_, Toronto, ON
+
+- Assisted in decommissioning older code-base by creating data migration tools using Java Spring batch, automating QA work significantly.
+- Developed bug fixes and general API improvements in the middle-ware, working in a micro-services environment. Achieving sprint goals punctually.
+- Active in student programs, took part in tournaments and other events. Invited to meet the group head of Technology & Operations in RBC for going above and beyond.
+- Operated in Agile for timely product releases using Jenkins, Jira and Helios.
+
 **Software Developer Co-Op (May 2020 - Aug 2020)**
 
 _Portable Intelligence Inc._, Markham, ON
@@ -90,6 +99,11 @@ Seneca College | _Fall 2018, Summer 2019, Fall 2019, Winter 2019_
 Seneca Applied Research | _April 2020_
 
 - In recognition of contributions of faculty, students and others to innovative research and entrepreneurial activities at Seneca presented at the Annual Applied Research, Innovation & Entrepreneurship Showcase.
+
+**RBC AmpHacks Top 5**
+RBC AmpHacks | _October 2020_
+
+- Made a video-sharing app for seniors called SocialDisco, for the challenge statement "create a solution for making Canadian lives better". Selected for final round and placed top 5.
 
 ---
 ## Hard Copy
