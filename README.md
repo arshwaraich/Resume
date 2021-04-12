@@ -67,7 +67,7 @@ Other | Object-oriented design, Data structures and algorithms, Computer Vision,
 ---
 ## Software Projects
 
-**[Capstone Project](https://capstone.arshwaraich.com)**
+**[Capstone Project](https://github.com/arshwaraich/Store_Management_App)**
 
 _Angular, NodeJS, MongoDB, Git/Github_
 
@@ -79,11 +79,11 @@ _React Native, AWS Amplify, Figma, Git/Github_
 
 - A Cross platform (iOS/Android) application for managing a user's health data.
 
-**[VPS Management](https://console.arshwaraich.com)**
+**[VPS Management](#)**
 
 _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 
-- Set up a VPS for hosting personal projects ([Personal drive](https://github.com/arshwaraich/Drive), [web based SSH console](https://console.arshwaraich.com) etc.).  
+- Set up a VPS for hosting personal projects ([Personal drive](https://github.com/arshwaraich/Drive), [web based SSH console](#) etc.).  
   
 **[Other Projects](https://github.com/arshwaraich)**
 
