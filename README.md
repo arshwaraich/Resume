@@ -14,27 +14,27 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 ## Work Experience
 **Software Developer (Sep 2021 - Present)**
 
-_Royal Bank of Canada_, Toronto, ON
+ - _Royal Bank of Canada_, Toronto, ON
 
 **Software Developer Co-Op (Jan 2021 - Apr 2021)**
 
-_Royal Bank of Canada_, Toronto, ON
+ - _Royal Bank of Canada_, Toronto, ON
 
 **Software Developer Co-Op (May 2020 - Aug 2020)**
 
-_Portable Intelligence Inc._, Markham, ON
+ - _Portable Intelligence Inc._, Markham, ON
 
 **Software Developer (Aug 2019 - May 2021)**
 
-_Nexus Health_, Toronto, ON
+ - _Nexus Health_, Toronto, ON
 
 **Junior Software Developer (Aug 2019 - Jan 2020)**
 
-_Mixto_, Mississauga, ON
+ - _Mixto_, Mississauga, ON
 
 **Research Assistant (Mar 2019 - Jul 2019)**
 
-_Seneca College_, Toronto, ON
+ - _Seneca College_, Toronto, ON
 
 ---
 ## Skills
