@@ -1,6 +1,6 @@
 ## Profile Summary
 #### Career Goal: Software Developer
-- Fourth year Software development degree student with extensive knowledge of Software development and engineering.
+- Full-time Software developer with extensive knowledge of Software development, design and engineering.
 - Background in Full stack system development and deployment.
 - Experience with business principles and management
 - Excellent communication, interpersonal and teamwork skills
