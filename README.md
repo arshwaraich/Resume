@@ -12,6 +12,10 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 ---
 ## Work Experience
+**Software Developer (Sep 2021 - Present)**
+
+_Royal Bank of Canada_, Toronto, ON
+
 **Software Developer Co-Op (Jan 2021 - Apr 2021)**
 
 _Royal Bank of Canada_, Toronto, ON
@@ -29,7 +33,7 @@ _Portable Intelligence Inc._, Markham, ON
 - Automated software updates, allowing clients to update our software without on-site visits from our employees, saving hundreds of man hours.
 - Operated in Agile for timely product releases using Azure, Windows Server 2012 and IIS.
 
-**Software Developer (Aug 2019 - Present)**
+**Software Developer (Aug 2019 - May 2021)**
 
 _Nexus Health_, Toronto, ON
 
