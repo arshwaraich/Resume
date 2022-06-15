@@ -87,9 +87,3 @@ RBC AmpHacks | _October 2020_
 
 - Made a video-sharing app for seniors called SocialDisco, for the challenge statement "create a solution for making Canadian lives better". Selected for final round and placed top 5.
 
----
-## Hard Copy
-- [PDF](https://github.com/arshwaraich/Resume/blob/master/resume.pdf)
-- [Markdown](https://github.com/arshwaraich/Resume/blob/master/README.md)
-- [Latex](https://github.com/arshwaraich/Resume/blob/master/LaTeX)
-- [Repo](https://github.com/arshwaraich/Resume/)
