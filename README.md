@@ -44,20 +44,20 @@ Skill ||
 Programming Languages | C/C++, C#, Java, Python, JavaScript/TypeScript, HTML/CSS
 Frameworks | Android (Java), Angular (TypeScript), .NET (Core and Standard), OpenCV, ReactJS, React Native, NodeJS, Nginx
 Databases | MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server
-Other | Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, Github CI/CD, AWS Serverless
+Other | Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless
 
 ---
 ## Software Projects
 
 **[Capstone Project](https://github.com/arshwaraich/Store_Management_App)**
 
-_Angular, NodeJS, MongoDB, Git/Github_
+_Angular, NodeJS, MongoDB, Git/GitHub_
 
 - A Customer and Order management system for a green cleaning and stitching business.
 
 **[NexHUB](https://nexid.nexushealth.ca)**
 
-_React Native, AWS Amplify, Figma, Git/Github_
+_React Native, AWS Amplify, Figma, Git/GitHub_
 
 - A Cross platform (iOS/Android) application for managing a user's health data.
 
