@@ -26,11 +26,11 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 **Software Developer (Aug 2019 - May 2021)**
 
- - _Nexus Health_, Toronto, ON
+ - _Nexus Health Inc._, Toronto, ON
 
 **Junior Software Developer (Aug 2019 - Jan 2020)**
 
- - _Mixto_, Mississauga, ON
+ - _Mixto Card Conceptions Inc._, Mississauga, ON
 
 **Research Assistant (Mar 2019 - Jul 2019)**
 
@@ -73,7 +73,7 @@ _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 ## Awards
 
 **President's Honour List**
-Seneca College | _Fall 2018, Summer 2019, Fall 2019, Winter 2019_
+Seneca College | _Fall 2018 - Summer 2021_
 
 - The President's Honour List recognizes consistently outstanding achievement by students
 
