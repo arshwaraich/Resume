@@ -1,18 +1,14 @@
-## Profile Summary
-#### Career Goal: Software Developer
-- Full-time Software developer with extensive knowledge of Software development, design and engineering.
-- Background in Full stack system development and deployment.
-- Experience with business principles and management
-- Excellent communication, interpersonal and teamwork skills
-
----
 ## Education
 **Honours Bachelor of Technology (BSD) in Software Development**  
 Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 ---
 ## Work Experience
-**Software Developer (Sep 2021 - Present)**
+**Senior Software Developer (Aug 2023 - Present)**
+
+ - _Royal Bank of Canada_, Toronto, ON
+
+**Software Developer (Sep 2021 - Aug 2023)**
 
  - _Royal Bank of Canada_, Toronto, ON
 
@@ -33,8 +29,8 @@ Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
 
 Skill ||
 ---|---
-Programming Languages | C/C++, C#, Java, Python, JavaScript/TypeScript, HTML/CSS
-Frameworks | Android (Java), Angular (TypeScript), .NET (Core and Standard), OpenCV, ReactJS, React Native, NodeJS, Nginx
+Programming Languages | C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
+Frameworks | .NET (Core and Framework), ReactJS, React Native, NodeJS, Angular (TypeScript)
 Databases | MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server
 Other | Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless
 
@@ -47,7 +43,7 @@ _Angular, NodeJS, MongoDB, Git/GitHub_
 
 - A Customer and Order management system for a green cleaning and stitching business.
 
-**[NexHUB](https://nexid.nexushealth.ca)**
+**[NexHUB](#)**
 
 _React Native, AWS Amplify, Figma, Git/GitHub_
 
@@ -63,6 +59,11 @@ _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 
 ---
 ## Awards
+
+**One RBC Team Award**
+Royal Bank of Canada | _August 2023_
+
+- Awarded as part of the Direct Investing & InvestEase FHSA delivery team for bringing ’One RBC’ to life with outstanding collaborative efforts.
 
 **President's Honour List**
 Seneca College | _Fall 2018 - Summer 2021_
