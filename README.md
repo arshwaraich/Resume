@@ -63,7 +63,7 @@ _Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
 **One RBC Team Award**
 Royal Bank of Canada | _August 2023_
 
-- Awarded as part of the Direct Investing & InvestEase FHSA delivery team for bringing ’One RBC’ to life with outstanding collaborative efforts.
+- Awarded as part of the Direct Investing & InvestEase FHSA delivery team for bringing 'One RBC' to life with outstanding collaborative efforts.
 
 **President's Honour List**
 Seneca College | _Fall 2018 - Summer 2021_
