@@ -27,9 +27,9 @@ GPA: 4.0
 ---
 
 - **Languages:** C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
-- **Frameworks:** .NET (Core and Framework), ReactJS, NextJS, React Native, NodeJS, LangChain, Angular (TypeScript)
+- **Frameworks:** .NET (Core and Framework), ReactJS, NextJS, React Native, NodeJS, LangChain
 - **Databases:** MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server, ChromaDB
-- **Other:** Object-oriented design, Data structures and algorithms, LLM + RAG integration, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless, Figma
+- **Other:** Object oriented design // Data structures and algorithms // LLM + RAG integration // Computer Vision // Shell scripting // RESTful APIs // Git // GitHub CI/CD // AWS Serverless // Figma
 
 ### Projects
 ---
