@@ -1,25 +1,25 @@
 ## Education
 **Honours Bachelor of Technology (BSD) in Software Development**  
 *Seneca College, Toronto, ON*  
-Jan 2018 – Aug 2021  
+Jan 2018 - Aug 2021  
 GPA: 4.0
 
 ## Work Experience
 
 ### Senior Software Developer
-*Royal Bank of Canada, Toronto, ON* | Aug 2023 – Present
+*Royal Bank of Canada, Toronto, ON* | Aug 2023 - Present
 
 ### Software Developer
-*Royal Bank of Canada, Toronto, ON* | Sep 2021 – Aug 2023
+*Royal Bank of Canada, Toronto, ON* | Sep 2021 - Aug 2023
 
 ### Software Developer Co-Op
-*Royal Bank of Canada, Toronto, ON* | Jan 2021 – Apr 2021
+*Royal Bank of Canada, Toronto, ON* | Jan 2021 - Apr 2021
 
 ### Software Developer Co-Op
-*Portable Intelligence Inc., Markham, ON* | May 2020 – Aug 2020
+*Portable Intelligence Inc., Markham, ON* | May 2020 - Aug 2020
 
 ### Software Developer
-*Nexus Health Inc., Toronto, ON* | Aug 2019 – May 2021
+*Nexus Health Inc., Toronto, ON* | Aug 2019 - May 2021
 
 ## Skills
 
