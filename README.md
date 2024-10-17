@@ -4,6 +4,8 @@
 Jan 2018 - Aug 2021  
 GPA: 4.0
 
+---
+
 ## Work Experience
 
 ### Senior Software Developer
@@ -21,6 +23,8 @@ GPA: 4.0
 ### Software Developer
 *Nexus Health Inc., Toronto, ON* | Aug 2019 - May 2021
 
+---
+
 ## Skills
 
 **Languages:** C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
@@ -30,6 +34,8 @@ GPA: 4.0
 **Databases:** MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server, ChromaDB
 
 **Other:** Object-oriented design, Data structures and algorithms, LLM + RAG integration, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless, Figma
+
+---
 
 ## Projects
 
@@ -48,6 +54,8 @@ GPA: 4.0
 - A Cross platform (iOS/Android) application for managing a user's health data in an emergency
 
 ### [Other Projects](https://github.com/arshwaraich)
+
+---
 
 ## Awards
 
