@@ -1,13 +1,13 @@
 ### Education
+---
 **Honours Bachelor of Technology (BSD) in Software Development**  
 *Seneca College, Toronto, ON*  
 Jan 2018 - Aug 2021  
 GPA: 4.0
 
----
 
 ### Work Experience
-
+---
 #### Senior Software Developer
 *Royal Bank of Canada, Toronto, ON* | Aug 2023 - Present
 
@@ -23,9 +23,9 @@ GPA: 4.0
 #### Software Developer
 *Nexus Health Inc., Toronto, ON* | Aug 2019 - May 2021
 
----
 
 ### Skills
+---
 
 **Languages:** C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
 
@@ -35,9 +35,8 @@ GPA: 4.0
 
 **Other:** Object-oriented design, Data structures and algorithms, LLM + RAG integration, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless, Figma
 
----
-
 ### Projects
+---
 
 #### Flag Fusion
 *NextJS, TypeScript, AWS, Git/GitHub, Figma*
@@ -55,9 +54,9 @@ GPA: 4.0
 
 #### [Other Projects](https://github.com/arshwaraich)
 
----
 
 ### Awards
+---
 
 **One RBC Team Award**  
 *Royal Bank of Canada*  
