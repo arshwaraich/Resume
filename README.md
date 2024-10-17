@@ -1,4 +1,4 @@
-## Education
+### Education
 **Honours Bachelor of Technology (BSD) in Software Development**  
 *Seneca College, Toronto, ON*  
 Jan 2018 - Aug 2021  
@@ -6,26 +6,26 @@ GPA: 4.0
 
 ---
 
-## Work Experience
+### Work Experience
 
-### Senior Software Developer
+#### Senior Software Developer
 *Royal Bank of Canada, Toronto, ON* | Aug 2023 - Present
 
-### Software Developer
+#### Software Developer
 *Royal Bank of Canada, Toronto, ON* | Sep 2021 - Aug 2023
 
-### Software Developer Co-Op
+#### Software Developer Co-Op
 *Royal Bank of Canada, Toronto, ON* | Jan 2021 - Apr 2021
 
-### Software Developer Co-Op
+#### Software Developer Co-Op
 *Portable Intelligence Inc., Markham, ON* | May 2020 - Aug 2020
 
-### Software Developer
+#### Software Developer
 *Nexus Health Inc., Toronto, ON* | Aug 2019 - May 2021
 
 ---
 
-## Skills
+### Skills
 
 **Languages:** C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
 
@@ -37,27 +37,27 @@ GPA: 4.0
 
 ---
 
-## Projects
+### Projects
 
-### Flag Fusion
+#### Flag Fusion
 *NextJS, TypeScript, AWS, Git/GitHub, Figma*
 - A web app to color any flag in the colours of another flag, built to test LLM supported development
 - https://github.com/arshwaraich/FlagFusion
 
-### Capstone Project
+#### Capstone Project
 *Angular, NodeJS, MongoDB, Git/GitHub*
 - A Customer and Order management system for a green cleaning and stitching business
 - https://github.com/arshwaraich/Store_Management_App
 
-### NexHUB
+#### NexHUB
 *React Native, AWS Amplify, Figma, Git/GitHub*
 - A Cross platform (iOS/Android) application for managing a user's health data in an emergency
 
-### [Other Projects](https://github.com/arshwaraich)
+#### [Other Projects](https://github.com/arshwaraich)
 
 ---
 
-## Awards
+### Awards
 
 **One RBC Team Award**  
 *Royal Bank of Canada*  
