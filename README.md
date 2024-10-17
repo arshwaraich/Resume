@@ -1,82 +1,73 @@
 ## Education
 **Honours Bachelor of Technology (BSD) in Software Development**  
-Jan 2018 - Aug 2021 | _Seneca College_, GPA: 4.0, _Toronto, ON_
+*Seneca College, Toronto, ON*  
+Jan 2018 – Aug 2021  
+GPA: 4.0
 
----
 ## Work Experience
-**Senior Software Developer (Aug 2023 - Present)**
 
- - _Royal Bank of Canada_, Toronto, ON
+### Senior Software Developer
+*Royal Bank of Canada, Toronto, ON* | Aug 2023 – Present
 
-**Software Developer (Sep 2021 - Aug 2023)**
+### Software Developer
+*Royal Bank of Canada, Toronto, ON* | Sep 2021 – Aug 2023
 
- - _Royal Bank of Canada_, Toronto, ON
+### Software Developer Co-Op
+*Royal Bank of Canada, Toronto, ON* | Jan 2021 – Apr 2021
 
-**Software Developer Co-Op (Jan 2021 - Apr 2021)**
+### Software Developer Co-Op
+*Portable Intelligence Inc., Markham, ON* | May 2020 – Aug 2020
 
- - _Royal Bank of Canada_, Toronto, ON
+### Software Developer
+*Nexus Health Inc., Toronto, ON* | Aug 2019 – May 2021
 
-**Software Developer Co-Op (May 2020 - Aug 2020)**
-
- - _Portable Intelligence Inc._, Markham, ON
-
-**Software Developer (Aug 2019 - May 2021)**
-
- - _Nexus Health Inc._, Toronto, ON
-
----
 ## Skills
 
-Skill ||
----|---
-Programming Languages | C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
-Frameworks | .NET (Core and Framework), ReactJS, React Native, NodeJS, Angular (TypeScript)
-Databases | MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server
-Other | Object-oriented design, Data structures and algorithms, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless
+**Languages:** C#, JavaScript/TypeScript, HTML/CSS, Java, C/C++, Python
 
----
-## Software Projects
+**Frameworks:** .NET (Core and Framework), ReactJS, NextJS, React Native, NodeJS, LangChain, Angular (TypeScript)
 
-**[Capstone Project](https://github.com/arshwaraich/Store_Management_App)**
+**Databases:** MongoDB, DynamoDB, MySQL, PostgreSQL, MS SQL Server, ChromaDB
 
-_Angular, NodeJS, MongoDB, Git/GitHub_
+**Other:** Object-oriented design, Data structures and algorithms, LLM + RAG integration, Computer Vision, Shell scripting, RESTful APIs, Git, GitHub CI/CD, AWS Serverless, Figma
 
-- A Customer and Order management system for a green cleaning and stitching business.
+## Projects
 
-**[NexHUB](#)**
+### Flag Fusion
+*NextJS, TypeScript, AWS, Git/GitHub, Figma*
+- A web app to color any flag in the colours of another flag, built to test LLM supported development
+- https://github.com/arshwaraich/FlagFusion
 
-_React Native, AWS Amplify, Figma, Git/GitHub_
+### Capstone Project
+*Angular, NodeJS, MongoDB, Git/GitHub*
+- A Customer and Order management system for a green cleaning and stitching business
+- https://github.com/arshwaraich/Store_Management_App
 
-- A Cross platform (iOS/Android) application for managing a user's health data.
+### NexHUB
+*React Native, AWS Amplify, Figma, Git/GitHub*
+- A Cross platform (iOS/Android) application for managing a user's health data in an emergency
 
-**[VPS Management](#)**
+### [Other Projects](https://github.com/arshwaraich)
 
-_Ubuntu 16.04, Let's Encrypt, Nginx, NodeJS_
-
-- Set up a VPS for hosting personal projects ([Personal drive](https://github.com/arshwaraich/Drive), [web based SSH console](#) etc.).  
-  
-**[Other Projects](https://github.com/arshwaraich)**
-
----
 ## Awards
 
-**One RBC Team Award**
-Royal Bank of Canada | _August 2023_
+**One RBC Team Award**  
+*Royal Bank of Canada*  
+2023 Q3, 2024 Q1, 2024 Q3
+- Recognized for work in the HSBC acquisition, FHSA delivery and the Direct Investing Home redesign project, improving cross-functional collaboration and achieving key milestones on time
 
-- Awarded as part of the Direct Investing & InvestEase FHSA delivery team for bringing 'One RBC' to life with outstanding collaborative efforts.
+**President's Honour List**  
+*Seneca College*  
+Fall 2018 - Summer 2021
+- Awarded for consistently outstanding achievement as a student
 
-**President's Honour List**
-Seneca College | _Fall 2018 - Summer 2021_
+**Certificate of Recognition**  
+*Seneca Applied Research*  
+April 2020
+- In recognition of contributions to innovative research and entrepreneurial activities at Seneca
+- Presented at the Annual Applied Research, Innovation & Entrepreneurship Showcase
 
-- The President's Honour List recognizes consistently outstanding achievement by students
-
-**Certificate of Recognition**
-Seneca Applied Research | _April 2020_
-
-- In recognition of contributions of faculty, students and others to innovative research and entrepreneurial activities at Seneca presented at the Annual Applied Research, Innovation & Entrepreneurship Showcase.
-
-**RBC AmpHacks Top 5**
-RBC AmpHacks | _October 2020_
-
-- Made a video-sharing app for seniors called SocialDisco, for the challenge statement "create a solution for making Canadian lives better". Selected for final round and placed top 5.
-
+**RBC AmpHacks Top 5**  
+*RBC AmpHacks*  
+October 2020
+- For creating a video-sharing app for seniors called SocialDisco
