@@ -7,8 +7,11 @@ GPA: 4.0
 
 ### Work Experience
 ---
+**Software Developer II**\
+*Stripe, Toronto, ON* | May 2025 - Present
+
 **Senior Software Developer**\
-*Royal Bank of Canada, Toronto, ON* | Aug 2023 - Present
+*Royal Bank of Canada, Toronto, ON* | Aug 2023 - May 2025
 
 **Software Developer**\
 *Royal Bank of Canada, Toronto, ON* | Sep 2021 - Aug 2023
