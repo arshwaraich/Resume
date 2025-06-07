@@ -40,12 +40,12 @@ GPA: 4.0
 **Flag Fusion**\
 *NextJS, TypeScript, AWS, Git/GitHub, Figma*
 - A web app to color any flag in the colours of another flag, built to test LLM supported development
-- https://github.com/arshwaraich/FlagFusion
+- [GitHub Link](https://github.com/arshwaraich/FlagFusion)
 
 **Capstone Project**\
 *Angular, NodeJS, MongoDB, Git/GitHub*
 - A Customer and Order management system for a green cleaning and stitching business
-- https://github.com/arshwaraich/Store_Management_App
+- [GitHub Link](https://github.com/arshwaraich/Store_Management_App)
 
 **NexHUB**\
 *React Native, AWS Amplify, Figma, Git/GitHub*
