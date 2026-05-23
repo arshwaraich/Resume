@@ -1,9 +1,8 @@
 ### Education
 
 ---
-**Honours Bachelor of Technology (BSD) in Software Development**
-*Seneca College, Toronto, ON*
-Jan 2018 - Aug 2021
+**Honours Bachelor of Technology (BSD) in Software Development**\
+*Seneca College, Toronto, ON* | Jan 2018 - Aug 2021
 - GPA: 4.0
 - President's Honour List: Fall 2018 - Summer 2021
 
