@@ -79,7 +79,7 @@ _Swift, SwiftUI, Linphone SDK, CallKit_
 
 - A native iOS SIP softphone supporting UDP/TCP/TLS transports,
   CallKit-integrated call UX, and DTMF. Shipped to the App Store.
-- github.com/arshwaraich/softphone
+- [github.com/arshwaraich/softphone](https://github.com/arshwaraich/softphone)
 
 **Sun Timezone**\
 _Swift, SwiftUI, Figma, NextJS_
@@ -88,7 +88,7 @@ _Swift, SwiftUI, Figma, NextJS_
   scrubbing time dial. Ported from an earlier NextJS web app
   (arshwaraich.github.io/time-zone) to native iOS using LLM coding agents;
   shipped to the App Store.
-- https://github.com/arshwaraich/Timezone
+- [github.com/arshwaraich/Timezone](https://github.com/arshwaraich/Timezone)
 
 **[Other Projects](https://github.com/arshwaraich)**
 
