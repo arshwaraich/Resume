@@ -17,7 +17,7 @@
 \makecvtitle
 
 \section{Summary}
-\cvitem{}{Innovative Software Developer II with 4+ years architecting full-stack solutions in fintech. Demonstrated excellence in delivering high-impact projects like HSBC acquisition (\$1B+ AUM) and Canada's first FHSA platform. Technical leader experienced in React, Ruby, .NET, AWS, and LLM integrations, with a focus on scalable, accessible solutions.}
+\cvitem{}{Software Developer II with 5+ years building full-stack solutions in fintech and payments. Delivered high-impact projects spanning authentication and security at Stripe (Email OTP and User Security Framework: 26M+ users), the HSBC acquisition at RBC (\$1B+ AUM), and Canada's first FHSA platform. Experienced in React, Ruby, .NET, AWS, and large-scale auth systems, with a focus on scalable, accessible solutions.}
 
 \section{Work Experience}
 \cventry
@@ -26,8 +26,13 @@
 {Stripe}
 {Toronto, ON}
 {}
-{\begin{itemize}%
-	\item Working on the UAX team to secure and enhance user authentication experiences across Stripe's global payment infrastructure.
+{Frequently tapped to lead time-sensitive UAX projects end-to-end, recognised for ramping fast into unfamiliar auth surfaces and shipping under tight deadlines.
+\begin{itemize}%
+	\item Shipped Email OTP as a new authentication factor on Stripe Connect (DRI), replacing SMS as the only available option; replaced \$96K/month in international SMS costs and materially reduced SMS-based fraud.
+	\item Led integration of Stripe's User Security Framework (USF) into Connect, delivering a security upgrade to 26M+ users on schedule; designed a generalized signal-ingestion approach and observability dashboards adopted by partner teams.
+	\item Designed and shipped a new email-based bank account verification flow on a one-month, two-sprint deadline, automating a previously manual support process for users without enough info on file to verify themselves; rolled out safely from 1\% to 100\% globally and cut support volume.
+	\item Contributed to a Human-in-the-Loop system that requires user confirmation on sensitive agent-initiated API calls; built UI components and ran LLM evals to validate that agent prompts reliably produced the correct downstream tool calls.
+	\item Currently leading work to harden Stripe's API key model for agentic use: introducing per-key access policies and elevating granular restricted keys to first-class by deprecating the legacy all-permissions secret key.
 	\end{itemize}}
 \cventry
 {Aug 2023 -- May 2025}
@@ -47,7 +52,7 @@
 {Toronto, ON}
 {}
 {\begin{itemize}%
-	\item Led front-end changes for Canada's first-to-market First Home Savings Account (FHSA) on RBC InvestEase, delivering within 4 months and enabling \$100M in Q1 investments
+	\item Led front-end changes for Canada's first-to-market First Home Savings Account (FHSA) on RBC InvestEase, delivering within 4 months and enabling \$100M in Q1 investments.
 	\item Developed bulk account approvals, reducing manual processing by 40\%.
 	\end{itemize}}
 \cventry
@@ -82,25 +87,33 @@
 
 \section{Skills}
 \cvitem{Languages}{Ruby · C\# · JavaScript/TypeScript · HTML/CSS · Java · C/C++ · Python}
-\cvitem{Frameworks}{.NET (Core and Framework) · ReactJS · NextJS · React Native · NodeJS · LangChain}
+\cvitem{Frameworks}{.NET (Core/Framework) · ReactJS · NextJS · React Native · SwiftUI · NodeJS · LangChain}
 \cvitem{Databases}{MongoDB · DynamoDB · MySQL · PostgreSQL · MS SQL Server · ChromaDB}
-\cvitem{Other}{Object oriented design · Data structures and algorithms · LLM + RAG integration · Computer Vision · Shell scripting · RESTful APIs · Git · GitHub CI/CD · AWS Serverless · Figma}
+\cvitem{Other}{Object oriented design · Data structures and algorithms · LLM + RAG integration · Computer Vision · Shell scripting · RESTful APIs · Git · GitHub CI/CD · AWS Serverless · Figma · WebGL · LangChain}
 \section{Projects}
 \cventry
 {}
-{Flag fusion}
+{Clarity Softphone}
 {}
-{\textit{NextJS, TypeScript, Amazon AWS, Git/GitHub, Figma}}
+{\textit{Swift, SwiftUI, Linphone SDK, CallKit}}
 {}
-{A responsive web app to color any flag in the colors of another flag, built to test Meta's local llm supported development.\\https://github.com/arshwaraich/FlagFusion}
+{A native iOS SIP softphone supporting UDP/TCP/TLS transports, CallKit-integrated call UX, and DTMF. Shipped to the App Store. · github.com/arshwaraich/softphone}
 \vspace{1mm}
 \cventry
 {}
-{NexHUB}
+{Sun Timezone}
 {}
-{\textit{React Native, AWS Amplify, Figma, Git/GitHub}}
+{\textit{Swift, SwiftUI, Canvas, NextJS}}
 {}
-{A Cross platform (iOS/Android) application for managing a user's health data in an emergency.}
+{An iOS app visualising multiple timezones along a sun-arc chart with a scrubbing time dial. Ported from an earlier NextJS web app (arshwaraich.github.io/time-zone) to native iOS using LLM coding agents; shipped to the App Store. · github.com/arshwaraich/Timezone}
+\vspace{1mm}
+\cventry
+{}
+{Flag Fusion}
+{}
+{\textit{NextJS, TypeScript, Amazon AWS, Stripe, Figma}}
+{}
+{A responsive web app to color any flag in the colors of another flag, built to test Meta's local LLM supported development. · github.com/arshwaraich/FlagFusion}
 \vspace{1mm}
 \section{Awards}
 \cventry
@@ -127,5 +140,4 @@
 {}
 {For creating a video-sharing app for seniors called SocialDisco.\\RBC AmpHacks}
 \vspace{1mm}
-\ 
 \end{document}
