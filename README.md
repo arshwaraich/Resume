@@ -9,32 +9,41 @@
 ### Work Experience
 ---
 
-**Software Developer II**\
-_Stripe, Toronto, ON_ | May 2025 - Present
+**Software Engineer**\
+_Stripe_ | May 2025 - Present
 
-- Shipped Email OTP as a new auth factor on Stripe Connect, replacing SMS-only
-  ($96K/month) and reducing SMS-based fraud.
-- Extended risk-based bucketing to two of Stripe's primary auth surfaces
-  (Connect: 26M+ users, API keys: 100M+ developers), enabling adaptive auth from
-  risk signals; signal-ingestion pattern and dashboards adopted by partner
-  teams.
-- Migrated Stripe API endpoints onto risk framework; cut migration consumer
-  runtime from ~1 day to seconds via compute scaling, DB call/lock optimization,
-  and caching.
-- Built UI and ran LLM evals for a Human-in-the-Loop system gating sensitive
-  agent-initiated API calls; validated that agent prompts produced correct
-  downstream tool calls.
+_Marketing Technology, Bengaluru, KA_ | Aug 2026 - Present
+
+- Rebuilt Marketing's LLM help bot around skills with confidence-based human
+  handoff; a Claude Code eval loop lifted solve rate from 12% to 88%; it now
+  answers 44% of requests.
+- Automated Marketo lead backfills with a crash-resumable Airflow + S3 queue
+  that stays within API quota, ending a manual process that had caused 3
+  incidents.
+
+_User Auth Experience (auth & identity security), Toronto, ON_ | May 2025 - Aug 2026
+
+- DRI for Email OTP as a new Stripe Connect auth factor with a
+  per-user/country/domain SMS kill switch; launched email-only login in 8
+  high-fraud countries (~$96K/month in SMS savings).
+- DRI for risk scoring on Connect (26M+ users) and API keys (100M+ developers);
+  cut consumer runtime from ~1 day to seconds by fixing concurrency and MongoDB
+  lock contention. Flagged 250K+ anomalies at <10% false positives; 754
+  merchants rotated keys.
+- Sole DRI for a bank-account update-code flow, shipped ahead of schedule to
+  7,672 platforms.
+- Sole frontend owner for restricted-key onboarding; new-merchant adoption rose
+  12% to ~60%.
+- Built LLM evals and the approval page for MCP Human-in-the-Loop, shipped for
+  refunds.
 
 **Senior Software Developer**\
 _Royal Bank of Canada, Toronto, ON_ | Aug 2023 - May 2025
 
-- Contributed to the largest acquisition in Canadian banking history,
-  integrating HSBC clients into the RBC Direct Investing platforms, adding $1B+
-  to AUM while ensuring on-time delivery with reusable development, agile
-  feature toggles, and modern React patterns.
-- Redesigned the Direct Investing homepage using a scalable design framework,
-  incorporating responsive and accessible elements to improve user engagement.
-- Assisted in enabling foreign market trading, expanding global reach.
+- Integrated HSBC clients into RBC Direct Investing for the largest acquisition
+  in Canadian banking history, adding $1B+ to AUM, delivered on time.
+- Redesigned the Direct Investing homepage and helped enable foreign-market
+  trading.
 
 **Software Developer**\
 _Royal Bank of Canada, Toronto, ON_ | Sep 2021 - Aug 2023
@@ -55,8 +64,7 @@ _Royal Bank of Canada, Toronto, ON_ | Jan 2021 - Apr 2021
 _Portable Intelligence Inc., Markham, ON_ | May 2020 - Aug 2020
 
 - Built a UDP integration layer for the Artemis computer vision system, opening
-  a new revenue stream; shipped an automated update system that eliminated
-  on-site client visits.
+  a new revenue stream; automated updates ended on-site client visits.
 
 ### Skills
 
@@ -64,14 +72,26 @@ _Portable Intelligence Inc., Markham, ON_ | May 2020 - Aug 2020
 
 - **Languages:** Ruby · TypeScript · C# · HTML/CSS · Java · Python · Swift
 - **Frameworks:** .NET · ReactJS · NextJS · React Native · SwiftUI · NodeJS
-- **Databases:** DynamoDB · PostgreSQL · MongoDB · MS SQL Server · ChromaDB
-- **Other:** Object oriented design · LLM + RAG Integration · LangChain · Figma
-  · RESTful APIs · CI/CD · Git · Computer Vision · Shell scripting · AWS
-  Serverless · WebGL
+- **Data:** MongoDB · PostgreSQL · DynamoDB · Redis · SQLite · S3 · Airflow ·
+  Parquet
+- **AI:** Claude Code agents & skills · LLM evals (Braintrust) · MCP · Prompt
+  optimization · RAG · LangChain
+- **Other:** Authentication (OTP, WebAuthn, passkeys) · Risk scoring · RESTful
+  APIs · CI/CD · Grafana · Figma · AWS Serverless
 
 ### Projects
 
 ---
+
+**wallet-mcp**\
+_Python, MCP, Starlette, Pillow, SQLite, x402_
+
+- An MCP server and REST API that turns tickets, boarding passes, and loyalty
+  cards into signed Apple Wallet passes from Claude, ChatGPT, or Codex, with
+  live pass updates over APNs and x402 USDC micropayments past the free tier.
+  ~2,700 passes signed for ~800 distinct callers in its first 8 weeks; listed on
+  the official MCP Registry.
+- [walletmcppass.com](https://walletmcppass.com)
 
 **Clarity Softphone**\
 _Swift, SwiftUI, Linphone SDK, CallKit_
@@ -83,10 +103,10 @@ _Swift, SwiftUI, Linphone SDK, CallKit_
 **Sun Timezone**\
 _Swift, SwiftUI, Figma, NextJS_
 
-- An Web/iOS app visualising multiple timezones along a sun-arc chart with a
-  scrubbing time dial. Ported from an earlier NextJS web app
-  (arshwaraich.github.io/time-zone) to native iOS using LLM coding agents;
-  shipped to the App Store.
+- A web, iOS, and macOS app visualising multiple timezones along a sun-arc chart
+  with a scrubbing time dial, plus home-screen widgets. Ported from an earlier
+  NextJS web app (arshwaraich.github.io/time-zone) to native iOS using LLM
+  coding agents; shipped to the App Store.
 - [github.com/arshwaraich/Timezone](https://github.com/arshwaraich/Timezone)
 
 **[Other Projects](https://github.com/arshwaraich)**

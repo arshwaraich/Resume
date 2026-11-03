@@ -16,20 +16,27 @@
 \makecvtitle
 
 \section{Summary}
-\cvitem{}{Software Developer II at Stripe, 5+ years in authentication, security, and investments. Impact across Stripe Auth (100M+), the HSBC--RBC acquisition (\$1B+), and Canada's first-to-market FHSA.}
+\cvitem{}{Software engineer at Stripe, 5+ years in authentication, risk, and investments. Impact across Stripe auth and API keys (100M+ developers), the HSBC--RBC acquisition (\$1B+), and Canada's first-to-market FHSA.}
 
 \section{Work Experience}
 \cventry
 {May 2025 -- Present}
-{Software Developer II}
+{Software Engineer}
 {Stripe}
-{Toronto, ON}
 {}
-{\begin{itemize}%
-	\item Shipped Email OTP as a new auth factor on Stripe Connect, replacing SMS-only (\$96K/month) and reducing SMS-based fraud.
-	\item Extended risk-based bucketing to two of Stripe's primary auth surfaces (Connect: 26M+ users, API keys: 100M+ developers), enabling adaptive auth from risk signals; signal-ingestion pattern and dashboards adopted by partner teams.
-	\item Migrated Stripe API endpoints onto risk framework; cut migration consumer runtime from \textasciitilde1 day to seconds via compute scaling, DB call/lock optimization, and caching.
-	\item Built UI and ran LLM evals for a Human-in-the-Loop system gating sensitive agent-initiated API calls; validated that agent prompts produced correct downstream tool calls.
+{}
+{\textsl{Marketing Technology}, Bengaluru, KA, Aug 2026 -- Present
+\begin{itemize}%
+	\item Rebuilt Marketing's LLM help bot around skills with confidence-based human handoff; a Claude Code eval loop lifted solve rate from 12\% to 88\%; it now answers 44\% of requests.
+	\item Automated Marketo lead backfills with a crash-resumable Airflow + S3 queue that stays within API quota, ending a manual process that had caused 3 incidents.
+	\end{itemize}
+\textsl{User Auth Experience} (auth \& identity security), Toronto, ON, May 2025 -- Aug 2026
+\begin{itemize}%
+	\item DRI for Email OTP as a new Stripe Connect auth factor with a per-user/country/domain SMS kill switch; launched email-only login in 8 high-fraud countries (\textasciitilde\$96K/month in SMS savings).
+	\item DRI for risk scoring on Connect (26M+ users) and API keys (100M+ developers); cut consumer runtime from \textasciitilde1 day to seconds by fixing concurrency and MongoDB lock contention. Flagged 250K+ anomalies at <10\% false positives; 754 merchants rotated keys.
+	\item Sole DRI for a bank-account update-code flow, shipped ahead of schedule to 7,672 platforms.
+	\item Sole frontend owner for restricted-key onboarding; new-merchant adoption rose 12\% to \textasciitilde60\%.
+	\item Built LLM evals and the approval page for MCP Human-in-the-Loop, shipped for refunds.
 	\end{itemize}}
 \cventry
 {Aug 2023 -- May 2025}
@@ -38,9 +45,8 @@
 {Toronto, ON}
 {}
 {\begin{itemize}%
-	\item Contributed to the largest acquisition in Canadian banking history, integrating HSBC clients into the RBC Direct Investing platforms, adding \$1B+ to AUM while ensuring on-time delivery with reusable development, agile feature toggles, and modern React patterns.
-	\item Redesigned the Direct Investing homepage using a scalable design framework, incorporating responsive and accessible elements to improve user engagement.
-	\item Assisted in enabling foreign market trading, expanding global reach.
+	\item Integrated HSBC clients into RBC Direct Investing for the largest acquisition in Canadian banking history, adding \$1B+ to AUM, delivered on time.
+	\item Redesigned the Direct Investing homepage and helped enable foreign-market trading.
 	\end{itemize}}
 \cventry
 {Sep 2021 -- Aug 2023}
@@ -68,7 +74,7 @@
 {Markham, ON}
 {}
 {\begin{itemize}%
-	\item Built a UDP integration layer for the Artemis computer vision system, opening a new revenue stream; shipped an automated update system that eliminated on-site client visits.
+	\item Built a UDP integration layer for the Artemis computer vision system, opening a new revenue stream; automated updates ended on-site client visits.
 	\end{itemize}}
 
 \section{Education}
@@ -83,9 +89,18 @@
 \section{Skills}
 \cvitem{Languages}{Ruby · TypeScript · C\# · HTML/CSS · Java · Python · Swift}
 \cvitem{Frameworks}{.NET · ReactJS · NextJS · React Native · SwiftUI · NodeJS}
-\cvitem{Databases}{DynamoDB · PostgreSQL · MongoDB · MS SQL Server · ChromaDB}
-\cvitem{Other}{Object oriented design · LLM + RAG Integration · LangChain · Figma · RESTful APIs · CI/CD · Git · Computer Vision · Shell scripting · AWS Serverless · WebGL}
+\cvitem{Data}{MongoDB · PostgreSQL · DynamoDB · Redis · SQLite · S3 · Airflow · Parquet}
+\cvitem{AI}{Claude Code agents \& skills · LLM evals (Braintrust) · MCP · Prompt optimization · RAG · LangChain}
+\cvitem{Other}{Authentication (OTP, WebAuthn, passkeys) · Risk scoring · RESTful APIs · CI/CD · Grafana · Figma · AWS Serverless}
 \section{Projects}
+\cventry
+{}
+{wallet-mcp}
+{}
+{\textit{Python, MCP, Starlette, Pillow, SQLite, x402}}
+{}
+{An MCP server and REST API that turns tickets, boarding passes, and loyalty cards into signed Apple Wallet passes from Claude, ChatGPT, or Codex, with live pass updates over APNs and x402 USDC micropayments past the free tier. \textasciitilde2,700 passes signed for \textasciitilde800 distinct callers in its first 8 weeks; listed on the official MCP Registry. · walletmcppass.com}
+\vspace{1mm}
 \cventry
 {}
 {Clarity Softphone}
@@ -100,7 +115,7 @@
 {}
 {\textit{Swift, SwiftUI, Figma, NextJS}}
 {}
-{An Web/iOS app visualising multiple timezones along a sun-arc chart with a scrubbing time dial. Ported from an earlier NextJS web app (arshwaraich.github.io/time-zone) to native iOS using LLM coding agents; shipped to the App Store. · github.com/arshwaraich/Timezone}
+{A web, iOS, and macOS app visualising multiple timezones along a sun-arc chart with a scrubbing time dial, plus home-screen widgets. Ported from an earlier NextJS web app (arshwaraich.github.io/time-zone) to native iOS using LLM coding agents; shipped to the App Store. · github.com/arshwaraich/Timezone}
 \vspace{1mm}
 \section{Awards}
 \cventry
