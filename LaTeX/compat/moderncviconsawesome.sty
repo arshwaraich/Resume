@@ -1,0 +1,25 @@
+%% Build-time compatibility shim, picked up through TEXINPUTS by build.sh.
+%% Newer moderncv (2.4+) loads Font Awesome icons under pdfTeX; the published
+%% resume.pdf was built with TeX Live 2021's moderncv, which used marvosym icons and
+%% Latin Modern fonts, printed the name in black, left an extra line under the header,
+%% and ended each \cventry with a period. This restores all of that so a modern TeX Live reproduces that PDF without editing resume.tex
+%% (verified 2026-11-03: all words within 0.4bp of the TL2021 build).
+\ProvidesPackage{moderncviconsawesome}[2026/11/03 TL2021 compat shim]
+\RequirePackage{moderncviconsmarvosym}
+\RequirePackage{lmodern}
+\providecommand*{\compat@headskip}{9.813bp}
+\AtBeginDocument{%
+  % TL2021 colour scheme 'black' made the name black too; 2.4 greys it.
+  \colorlet{namecolor}{black}\colorlet{firstnamecolor}{black}\colorlet{lastnamecolor}{black}%
+  % TL2021 ended the header with \\[2.5em] (a line break plus space); 2.4 only adds the space.
+  \let\compat@makecvtitle\makecvtitle
+  \renewcommand*{\makecvtitle}{\compat@makecvtitle\vspace*{\compat@headskip}}%
+  \renewcommand*{\cventry}[7][.25em]{%
+    \cvitem[#1]{#2}{%
+      {\bfseries#3}%
+      \ifthenelse{\equal{#4}{}}{}{, {\slshape#4}}%
+      \ifthenelse{\equal{#5}{}}{}{, #5}%
+      \ifthenelse{\equal{#6}{}}{}{, #6}%
+      .\strut%
+      \ifx&#7&%
+      \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}}
